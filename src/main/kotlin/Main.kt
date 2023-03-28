@@ -5,5 +5,6 @@ fun main(args: Array<String>) {
     // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
     println("Program argument")
     println("Program argument - 2")
+    println("Program argument - 3")
     println("Program arguments: ${args.joinToString()}")
 }
